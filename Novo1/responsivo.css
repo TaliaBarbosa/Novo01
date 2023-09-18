@@ -3,14 +3,14 @@ body{
 }
 
 /* regras para celular*/
-@media screen and(max-width:200px) and(max-height:600px)
+@media screen and (max-width:390px) and (max-height:844px)
 {
 /*regras de celualar aqui*/
 body{
     background-color: #ff0000;
 }
 }
-@media screen and(max-width:600px) and(max-height:200px){
+@media screen and (max-width:844px) and (max-height:390px){
     body{
         background-color: #ffff00;
     }
