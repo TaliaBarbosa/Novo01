@@ -10,3 +10,10 @@
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,73,0.5690651260504201) 35%, rgba(168,255,0,0.87718837535014) 100%);
 }
+#cabeçalho ul li{
+    position: absolute;
+    background-color: white;
+    list-style: none;
+    color: teal;
+
+}
